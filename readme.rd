@@ -1,15 +1,14 @@
-When things dont quite go as planned.
 
 Thank you for downloading my project! This project was a code challenge in which the goal was to traverse files
 in a directory (including subdirectories) and displaying them.
 
 The only constrains were allowing the user to choose the extension type, and how far back to look for files.
 In other words, allowing the user to specify what files to select given the last modification timestamp.
-It does not sound that hard, does it? And it was not. However, let's just say it took me a little longer
+It does not sound that hard, does it? And it was not. However, lets just say it took me a little longer
 than anticipated. How long you ask? Well, about 2h 45min when you ignore all the small adjustments to
 the user interface towards the end.
 
-How do you use it? It's very simple. Select a folder and specify the file extension (e.g. txt), and how many
+How do you use it? Its very simple. Select a folder and specify the file extension (e.g. txt), and how many
 days back to look for. If you leave the days field as zero, it will just ignore this constrain. The files fill
 show bellow broken down into groups depending on their directory. Give it a try!
 
@@ -22,7 +21,7 @@ Yes, it took about 30 minutes to come but with a plan that I later changed anywa
 it was helpful, but software development is a very fluid profession. Design changes are a certainty in most cases if 
 not all. This is the reason small projects very often just skip this step and are designed as they are constructed.
 
-I'm not discouraged given the result. I think this just goes to show that deadlines are hard to meet. There will be
+Im not discouraged given the result. I think this just goes to show that deadlines are hard to meet. There will be
 delays, changes to the code, changes to the requirements, etc. This is just life as a software developer.
 Ask anyone you know is a developer by profession.
 
